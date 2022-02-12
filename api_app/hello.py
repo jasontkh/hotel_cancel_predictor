@@ -53,3 +53,6 @@ def hello_world():
         return "will not cancel"
     else:
         return "will cancel"
+
+
+app.run()
